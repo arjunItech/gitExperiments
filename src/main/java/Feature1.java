@@ -10,6 +10,8 @@ public class Feature1 {
 		System.out.println("Added for Feature - 4");
 		System.out.println("now in test Branch");
 		System.out.println("now in test Branch-commit1");
+		System.out.println("now in test Branch-commit2");
+
 
 	}
 
